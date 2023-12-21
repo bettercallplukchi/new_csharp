@@ -1,0 +1,15 @@
+﻿int i1 = 5;
+int i2 = 6;
+int sum = i1 + i2;
+Console.Writeline(sum);
+long 11 = 6;
+long sum2 = 11 + i1;
+Console.Writeline(sum2);
+double d1 = 5.5;
+double sum3 = d1 + i1;
+int producti = i1 * i2;
+long product = 11 * i1;
+Juble product = i1 * d1;
+Console.Writeline(sum2);
+Console.Writeline(sum2);
+Console.Writeline(sum2);
