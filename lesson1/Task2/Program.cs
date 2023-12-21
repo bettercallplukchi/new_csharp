@@ -13,3 +13,9 @@ Juble product = i1 * d1;
 Console.Writeline(sum2);
 Console.Writeline(sum2);
 Console.Writeline(sum2);
+
+int quotient = i1 / i2;
+Console.Writeline(guotient);
+d1 = 6;
+double guotient2 = 11 / d1;
+Console.writeline(guotient2);
