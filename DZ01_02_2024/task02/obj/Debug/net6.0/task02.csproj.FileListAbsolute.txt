@@ -1,0 +1,15 @@
+C:\Users\Alexandr\Desktop\01_CSHARP\DZ01_02_2024\task02\bin\Debug\net6.0\task02.exe
+C:\Users\Alexandr\Desktop\01_CSHARP\DZ01_02_2024\task02\bin\Debug\net6.0\task02.deps.json
+C:\Users\Alexandr\Desktop\01_CSHARP\DZ01_02_2024\task02\bin\Debug\net6.0\task02.runtimeconfig.json
+C:\Users\Alexandr\Desktop\01_CSHARP\DZ01_02_2024\task02\bin\Debug\net6.0\task02.dll
+C:\Users\Alexandr\Desktop\01_CSHARP\DZ01_02_2024\task02\bin\Debug\net6.0\task02.pdb
+C:\Users\Alexandr\Desktop\01_CSHARP\DZ01_02_2024\task02\obj\Debug\net6.0\task02.csproj.AssemblyReference.cache
+C:\Users\Alexandr\Desktop\01_CSHARP\DZ01_02_2024\task02\obj\Debug\net6.0\task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandr\Desktop\01_CSHARP\DZ01_02_2024\task02\obj\Debug\net6.0\task02.AssemblyInfoInputs.cache
+C:\Users\Alexandr\Desktop\01_CSHARP\DZ01_02_2024\task02\obj\Debug\net6.0\task02.AssemblyInfo.cs
+C:\Users\Alexandr\Desktop\01_CSHARP\DZ01_02_2024\task02\obj\Debug\net6.0\task02.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Desktop\01_CSHARP\DZ01_02_2024\task02\obj\Debug\net6.0\task02.dll
+C:\Users\Alexandr\Desktop\01_CSHARP\DZ01_02_2024\task02\obj\Debug\net6.0\refint\task02.dll
+C:\Users\Alexandr\Desktop\01_CSHARP\DZ01_02_2024\task02\obj\Debug\net6.0\task02.pdb
+C:\Users\Alexandr\Desktop\01_CSHARP\DZ01_02_2024\task02\obj\Debug\net6.0\task02.genruntimeconfig.cache
+C:\Users\Alexandr\Desktop\01_CSHARP\DZ01_02_2024\task02\obj\Debug\net6.0\ref\task02.dll
